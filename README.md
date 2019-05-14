@@ -17,7 +17,16 @@
 * echo
 * whoami
 * uname
+* cat 
+* less
+* head
+* tail
 ---
+## Operadores de terminal
+* pipe
+* redirecionador de stream (>,>>,<,<<)
+* operador &
+
 ## Gerenciadores de pacotes: como usar 
 
 ### dpkg
