@@ -5,14 +5,14 @@
 * cd
 * ls
 * pwd
----
+
 ## Manipulação de arquivos
 * touch
 * mv
 * rename (useless)
 * rm
 * cp
----
+
 ## Outros comandos interessantes
 * echo
 * whoami
@@ -21,25 +21,32 @@
 * less
 * head
 * tail
----
+* man
+* info
+
 ## Operadores de terminal
 * pipe
 * redirecionador de stream (>,>>,<,<<)
-* operador &
+* and
 
-## Gerenciadores de pacotes: como usar 
+## Gerenciadores de pacotes
 
-### dpkg
-
-### apt-get
-
-### rpm
-
-### yum
-
-### pacman
+* dpkg
+* apt-get
+* rpm
+* yum
+* pacman
 
 ## Adicionando pacotes sem um gerenciador de pacotes
 
 ### Provavelmente, _make_
+
+## Desktop Environments 
+
+* KDE
+* Gnome
+* Cinnamon
+* Deepin
+* xfce
+* LXDE
 
